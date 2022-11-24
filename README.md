@@ -1,13 +1,13 @@
 # Online Boutique Microservices Demo application.
 -   [Project Description](#ProjectDescription)
-* 1. [Services used in the project.](#Servicesusedintheproject.)
-* 2. [Write the K8s Configuration file following the docs.](#WritetheK8sConfigurationfilefollowingthedocs.)
-* 3. [Implementing the first service.](#Implementingthefirstservice.)
-* 4. [Implementing all the services.](#Implementingalltheservices.)
-* 5. [Applying Kubernetes best Practices.](#ApplyingKubernetesbestPractices.)
-* 6. [Transform the K8s config to HelmChart.](#TransformtheK8sconfigtoHelmChart.)
-	* 6.1. [Writing down the HelmChart.](#WritingdowntheHelmChart.)
-	* 6.1. [Deploying the HelmChart.](#DeployingTheHelmChart.)
+*  [Services used in the project.](#Servicesusedintheproject.)
+*  [Write the K8s Configuration file following the docs.](#WritetheK8sConfigurationfilefollowingthedocs.)
+*  [Implementing the first service.](#Implementingthefirstservice.)
+*  [Implementing all the services.](#Implementingalltheservices.)
+*  [Applying Kubernetes best Practices.](#ApplyingKubernetesbestPractices.)
+*  [Transform the K8s config to HelmChart.](#TransformtheK8sconfigtoHelmChart.)
+	*  [Writing down the HelmChart.](#WritingdowntheHelmChart.)
+	*  [Deploying the HelmChart.](#DeployingTheHelmChart.)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
