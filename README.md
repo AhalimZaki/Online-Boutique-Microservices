@@ -17,8 +17,8 @@
 
 ##  <a name='ProjectDescription'></a>Project Description
 
-###  1. <a name='OnlineBoutiqueisacloud-microservicesdemoapplicationprovidedbygoogle.OnlineBoutiqueconsistsofan10-tiermicroservicesapplication.Theapplicationisaweb-basede-commerceappwhereuserscanbrowseitemsaddthemtothecartandpurchasethemThisprojectisdesignedwithaPrinciplesthatAppmustworkwelloutsideGCPandforthatwewilluselinodecloudplatform.'></a>Online Boutique is a cloud-microservices demo application provided by google. Online Boutique consists of an 10-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them This project is designed with a Principles that App must work well outside GCP and for that we will use linode cloud platform.
-<br></br>
+###  <a name='OnlineBoutiqueisacloud-microservicesdemoapplicationprovidedbygoogle.OnlineBoutiqueconsistsofan10-tiermicroservicesapplication.Theapplicationisaweb-basede-commerceappwhereuserscanbrowseitemsaddthemtothecartandpurchasethemThisprojectisdesignedwithaPrinciplesthatAppmustworkwelloutsideGCPandforthatwewilluselinodecloudplatform.'></a>Online Boutique is a cloud-microservices demo application provided by google. Online Boutique consists of an 10-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them This project is designed with a Principles that App must work well outside GCP and for that we will use linode cloud platform.
+
 
 ##  1. <a name='Servicesusedintheproject.'></a>Services used in the project.
 - K8s Deployment config.
