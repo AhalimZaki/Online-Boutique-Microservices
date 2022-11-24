@@ -7,7 +7,7 @@
 * 5. [Applying Kubernetes best Practices.](#ApplyingKubernetesbestPractices.)
 * 6. [Transform the K8s config to HelmChart.](#TransformtheK8sconfigtoHelmChart.)
 	* 6.1. [Writing down the HelmChart.](#WritingdowntheHelmChart.)
-	* 6.1. [Writing down the HelmChart.](#WritingdowntheHelmChart.)
+	* 6.1. [Deploying the HelmChart.](#DeployingTheHelmChart.)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -114,7 +114,7 @@
 
 ![](assets/images/012-HelmFile.png)
 
-### Deploying The HelmChart
+###  6.2. <a name='DeployingTheHelmChart.'></a>Deploying The HelmChart.
 
 - I'll Install it on clean cluster statue by using helmfile package for deploying helm charts.
 
