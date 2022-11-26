@@ -1,13 +1,13 @@
 # Online Boutique Microservices Demo application.
--   [Project Description](#ProjectDescription)
-* 1. [Services used in the project.](#Servicesusedintheproject.)
-* 2. [Write the K8s Configuration file following the docs.](#WritetheK8sConfigurationfilefollowingthedocs.)
-* 3. [Implementing the first service.](#Implementingthefirstservice.)
-* 4. [Implementing all the services.](#Implementingalltheservices.)
-* 5. [Applying Kubernetes best Practices.](#ApplyingKubernetesbestPractices.)
-* 6. [Transform the K8s config to HelmChart.](#TransformtheK8sconfigtoHelmChart.)
-	* 6.1. [Writing down the HelmChart.](#WritingdowntheHelmChart.)
-	* 6.1. [Writing down the HelmChart.](#WritingdowntheHelmChart.)
+*  [Project Description](#ProjectDescription)
+*  [Services used in the project.](#Servicesusedintheproject.)
+*  [Write the K8s Configuration file following the docs.](#WritetheK8sConfigurationfilefollowingthedocs.)
+*  [Implementing the first service.](#Implementingthefirstservice.)
+*  [Implementing all the services.](#Implementingalltheservices.)
+*  [Applying Kubernetes best Practices.](#ApplyingKubernetesbestPractices.)
+*  [Transform the K8s config to HelmChart.](#TransformtheK8sconfigtoHelmChart.)
+	*  [Writing down the HelmChart.](#WritingdowntheHelmChart.)
+	*  [Deploying the HelmChart.](#DeployingTheHelmChart.)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -17,8 +17,8 @@
 
 ##  <a name='ProjectDescription'></a>Project Description
 
-###  1. <a name='OnlineBoutiqueisacloud-microservicesdemoapplicationprovidedbygoogle.OnlineBoutiqueconsistsofan10-tiermicroservicesapplication.Theapplicationisaweb-basede-commerceappwhereuserscanbrowseitemsaddthemtothecartandpurchasethemThisprojectisdesignedwithaPrinciplesthatAppmustworkwelloutsideGCPandforthatwewilluselinodecloudplatform.'></a>Online Boutique is a cloud-microservices demo application provided by google. Online Boutique consists of an 10-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them This project is designed with a Principles that App must work well outside GCP and for that we will use linode cloud platform.
-<br></br>
+###  <a name='OnlineBoutiqueisacloud-microservicesdemoapplicationprovidedbygoogle.OnlineBoutiqueconsistsofan10-tiermicroservicesapplication.Theapplicationisaweb-basede-commerceappwhereuserscanbrowseitemsaddthemtothecartandpurchasethemThisprojectisdesignedwithaPrinciplesthatAppmustworkwelloutsideGCPandforthatwewilluselinodecloudplatform.'></a>Online Boutique is a cloud-microservices demo application provided by google. Online Boutique consists of an 10-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them This project is designed with a Principles that App must work well outside GCP and for that we will use linode cloud platform.
+
 
 ##  1. <a name='Servicesusedintheproject.'></a>Services used in the project.
 - K8s Deployment config.
@@ -114,7 +114,7 @@
 
 ![](assets/images/012-HelmFile.png)
 
-### Deploying The HelmChart
+###  6.2. <a name='DeployingTheHelmChart.'></a>Deploying The HelmChart.
 
 - I'll Install it on clean cluster statue by using helmfile package for deploying helm charts.
 
