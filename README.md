@@ -141,3 +141,8 @@
 ``` kubectl get svc```
 
 ![](assets/images/017-svc.png)
+
+- Checking the website with the IP provided in the LoadBalancer.
+
+![](assets/images/018-site.png)
+
