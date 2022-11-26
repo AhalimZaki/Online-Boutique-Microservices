@@ -1,5 +1,5 @@
 # Online Boutique Microservices Demo application.
--   [Project Description](#ProjectDescription)
+*  [Project Description](#ProjectDescription)
 *  [Services used in the project.](#Servicesusedintheproject.)
 *  [Write the K8s Configuration file following the docs.](#WritetheK8sConfigurationfilefollowingthedocs.)
 *  [Implementing the first service.](#Implementingthefirstservice.)
